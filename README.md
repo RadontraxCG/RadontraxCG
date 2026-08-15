@@ -46,10 +46,12 @@ I build web apps, Discord bots and the infrastructure they run on. From the data
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RadontraxCG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadontraxCG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RadontraxCG&theme=github_dark" width="800" alt="Profile summary" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RadontraxCG&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RadontraxCG&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RadontraxCG&theme=github_dark" height="180" alt="Languages" />
+
+<img src="https://ghchart.rshah.org/8B5CF6/RadontraxCG" width="800" alt="Contribution graph" />
 
 </div>
 
